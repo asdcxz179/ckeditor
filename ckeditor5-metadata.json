@@ -1,0 +1,17 @@
+{
+  "plugins": [
+    {
+      "name": "Cpkm input",
+      "className": "CpkmInput",
+      "description": "Adds text to the editor.",
+      "path": "src/cpkminput.js",
+      "uiComponents": [
+        {
+          "name": "cpkmInputButton",
+          "type": "Button",
+          "iconPath": "theme/icons/ckeditor.svg"
+        }
+      ]
+    }
+  ]
+}
